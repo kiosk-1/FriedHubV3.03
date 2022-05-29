@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/kiosk-1/FriedHubV3.03/main/Fried%20Hub%20V3.03.txt'))()
